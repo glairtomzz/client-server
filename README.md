@@ -1,2 +1,6 @@
 # client-server
-client requsting file creation,file deletion, and file editing to the server
+socket programming for a server offering the following services to a client:
+file creation
+file deletion
+file view
+file editing
